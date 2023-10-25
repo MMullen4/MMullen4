@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MMullen4
+- 👋 Hi, I’m Matt Mullen
 - 👀 I’m interested in volleyball.
 - 🌱 I’m currently learning how to code a webpage.
 - 💞️ I’m looking to collaborate on marketing.
