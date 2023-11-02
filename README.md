@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt Mullen
-- 👀 I’m interested in volleyball.
+- 👀 I enjoy playing volleyball.
 - 🌱 I’m currently learning how to code a webpage.
 - 💞️ I’m looking to collaborate on marketing.
 - 📫 How to reach me email - mhmullen@icloud.com
